@@ -15,6 +15,7 @@ USER_EMOJI = USER_EMOJI = [':smiley_cat:', ':smiling_imp:', ':panda_face:', ':do
               ':smile:', ':grinning:', ':wink:', ':heart_eyes:', ':sunglasses:',]
               
 ```
-*можете добавить собственные emoji
+можете добавить собственные emoji
+
 6. Запустите бота командой `python bot.py`
 
